@@ -1,4 +1,4 @@
-# Collab Code: My guide for efficient collaboration
+# Guide for efficient collaboration
 
 By adhering to these principles, we can collaborate more efficiently while respecting each other’s time, priorities, and commitments. If you follow these practices, it reflects mutual respect, and I’m deeply appreciative of that consideration.
 
