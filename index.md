@@ -19,5 +19,6 @@ By adhering to these principles, we can collaborate more efficiently while respe
    - Schedule calls or follow-ups in advance
    - Allow time for a thoughful response
 
+
 5. **Attendees <= 3**: Keep decision-making meetings small to enhance focus and effectiveness. Aim for fewer than 8 attendees, but ideally, keep it under 3. [Read more about the rule of eight](https://www.rubick.com/the-rule-of-eight-for-strong-decision-making-meetings/).  
    ![Any meeting with more than 3 people is pointless - Jade from "From"](https://i.redd.it/r4ehw6lojwvd1.jpeg)  
