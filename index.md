@@ -7,15 +7,18 @@ By adhering to these principles, we can collaborate more efficiently while respe
 1. **Be Kind** and empathetic.
 2. **[No Hello](https://nohello.club)**: I won't be offended if you skip the pleasantries and get straight to the point. Do still be polite, and feel free to have social conversations!
 3. **Take a Deep Breath**: I’ll do my best to support your work, but please understand that I have other commitments. 
+
    Doing these can disrupt focus and well-being, and may not take priority over pre-existing plans:
    - Ad-hoc/Last-minute requests 🚫
    - Unscheduled calls 🚫 
    - Frequent follow-ups 🚫
    - Messages during time off or holidays 🚫
+
    What to do instead:
    - Planning ahead—adhoc requests may not override pre-planned tasks
    - Schedule calls or follow-ups in advance
    - Allow time for a thoughful response
+
    ```
       you.lack_of_planning != me.emergency
    ```
