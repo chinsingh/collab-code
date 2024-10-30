@@ -12,6 +12,7 @@ By adhering to these principles, we can collaborate more efficiently while respe
    - Unscheduled calls 🚫 
    - Frequent follow-ups 🚫
    - Messages during time off or holidays 🚫
+   
    What to do instead:
    - Planning ahead—adhoc requests may not override pre-planned tasks
    - Schedule calls or follow-ups in advance
